@@ -1,0 +1,19 @@
+{
+    "appBar": "حاسبة مؤشر كتلة الجسم",
+    "male": "ذكر",
+    "female": "أنثى",
+    "height": "الطول",
+    "cm": "سم",
+    "kg": "كج",
+    "age": "العمر",
+    "weight": "الوزن",
+    "calc": "احسب مؤشر كتلة الجسم",
+    "result": "مؤشر كتلة الجسم الخاص بك هو",
+    "youAre": "أنت ",
+    "conditionOne": "ضعيف جداً",
+    "conditionTwo": "ضمن النطاق الطبيعي",
+    "conditionThree": "زائد الوزن",
+    "conditionFour": "سمين (معتدل)",
+    "conditionFive": "سمين (شديد)",
+    "conditionSix": "سمين (شديد جداً أو مرضي)"
+}

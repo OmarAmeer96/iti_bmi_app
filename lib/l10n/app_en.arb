@@ -1,0 +1,19 @@
+{
+    "appBar": "BMI Calculator",
+    "male": "MALE",
+    "female": "FEMALE",
+    "height": "HEIGHT",
+    "cm": "cm",
+    "kg": "kg",
+    "age": "AGE",
+    "weight": "WEIGHT",
+    "calc": "Calculate BMI",
+    "result": "Your BMI is",
+    "youAre": "You are ",
+    "conditionOne": "Underweight",
+    "conditionTwo": "at Normal weight",
+    "conditionThree": "Overweight",
+    "conditionFour": "Obese (Moderate)",
+    "conditionFive": "Obese (Severe)",
+    "conditionSix": "Obese (Very severe or morbid)"
+}

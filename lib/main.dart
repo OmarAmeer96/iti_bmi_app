@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
   @override
-  Widget build(BuildContext context) { 
+  Widget build(BuildContext context) {
     return BlocProvider(
       create: (context) => LanguageCubit(),
       child: BlocBuilder<LanguageCubit, LanguageState>(
